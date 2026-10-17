@@ -1,0 +1,18 @@
+title: askgpt-docs
+description: So this was how much I could write inside of one day.
+url: "https://poweredbywhat.github.io"
+baseurl: "/askgptdocs"
+
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+header_pages:
+  - getting-started.md
+  - configuration.md
+  - providers.md
+  - tools.md
+  - troubleshooting.md
+
+plugins:
+  - jekyll-seo-tag

@@ -1,0 +1,42 @@
+---
+---
+
+@import "minima";
+
+.page-content {
+  max-width: 1100px;
+}
+
+.portal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.portal-card {
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+  min-height: 90px;
+  padding: 1.1rem;
+  border: 1px solid rgba(127, 127, 127, .4);
+  border-radius: 12px;
+  text-decoration: none;
+  transition: transform .15s ease, border-color .15s ease;
+}
+
+.portal-card:hover {
+  text-decoration: none;
+  transform: translateY(-2px);
+  border-color: #4285f4;
+}
+
+.portal-card strong {
+  font-size: 1.05rem;
+}
+
+.portal-card span {
+  opacity: .8;
+  font-size: .95rem;
+}
