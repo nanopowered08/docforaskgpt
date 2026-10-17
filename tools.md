@@ -10,7 +10,7 @@ Based on your AI provider your model of choice may be able to use the tools or a
 
 ## For Gemini Flash-Lite users...
 
-If the model is being lazy with tools, you're using a custom system prompt, maybe. To stop this, you can apply the patch inside of [troubleshooting.](https://poweredbywhat.github.io/troubleshooting)
+If the model is being lazy with tools, you're using a custom system prompt, maybe. To stop this, you can apply the patch inside of [troubleshooting.](https://nanopowered08.github.io/docforaskgpt/troubleshooting)
 
 ## Tools.
 

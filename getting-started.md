@@ -58,11 +58,11 @@ cat src/config.ts # (assuming you cloned the repo)
 
 ## Something broke-
 
-Look [here](https://poweredbywhat.github.io/troubleshooting)
+Look [here](https://nanopowered08.github.io/docforaskgpt/troubleshooting)
 
 # Next steps?
 
-- [Configuration cuz.](https://poweredbywhat.github.io/configuration)
-- [Lots of providers i gotta describe](https://poweredbywhat.github.io/providers)
-- [Tools cuz why not](https://poweredbywhat.github.io/tools)
-- [Something broke](https://poweredbywhat.github.io/troubleshooting)
+- [Configuration cuz.](https://nanopowered08.github.io/docforaskgpt/configuration)
+- [Lots of providers i gotta describe](https://nanopowered08.github.io/docforaskgpt/providers)
+- [Tools cuz why not](https://nanopowered08.github.io/docforaskgpt/tools)
+- [Something broke](https://nanopowered08.github.io/docforaskgpt/troubleshooting)

@@ -1,7 +1,7 @@
 title: askgpt-docs
 description: So this was how much I could write inside of one day.
-url: "https://poweredbywhat.github.io"
-baseurl: "/"
+url: "https://nanopowered08.github.io"
+baseurl: "/docforaskgpt"
 
 theme: minima
 markdown: kramdown
