@@ -40,8 +40,7 @@ You may notice the wizard appear.
 
 Select your provider and it'll ask for the key. Anything that happens here happens locally so your keys arent compromised.
 
-> [!NOTE]
-> For groq users youre gonna have to specify the entire model, like openai/gpt-oss-120b
+**For Groq users,** use the form (company name)/(model) like openai/gpt-oss-120b.
 
 ## I dont trust your claim that my keys will be compromised.
 
