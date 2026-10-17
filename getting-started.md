@@ -4,8 +4,6 @@ title: Wanna get it started or what?
 permalink: /getting-started/
 ---
 
-# Wanna get it started or what?
-
 It's super easy, you only need Node.js >= 20 and npm.
 
 ## NPM installation (Whatever updates i consider stable)

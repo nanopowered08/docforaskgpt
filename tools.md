@@ -4,8 +4,6 @@ title: Tools cus why not
 permalink: /tools/
 ---
 
-# Tools cus why not
-
 Based on your AI provider your model of choice may be able to use the tools or are too lazy to use it.
 
 ## For Gemini Flash-Lite users...

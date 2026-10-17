@@ -4,8 +4,6 @@ title: Configuration cuz.
 permalink: /configuration/
 ---
 
-# Configuration cuz.
-
 Some dudes want to know what is inside the configuration. I can't be more transparent so I have to do this.
 
 ## The model provider.
